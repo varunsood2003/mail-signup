@@ -1,0 +1,3 @@
+# mail-signup
+
+The Email Sign-Up for Newsletter project is a Node.js and Express-based web application that allows users to easily subscribe to a newsletter. By integrating with the Mailchimp API, the project securely stores user email addresses. The front-end consists of an intuitive HTML and CSS sign-up form, which submits data to the server. Express handles the request, communicating with the Mailchimp API to store the email address in the mailing list. This project provides a seamless and user-friendly experience for newsletter sign-ups while utilizing the power of Node.js, Express, and the Mailchimp API.
